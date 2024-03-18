@@ -1,0 +1,4 @@
+
+
+Rezultatul espresiei   1+1 pentru utilizatorul  fsa este: 2
+Rezultatul espresiei   1+1 pentru utilizatorul  asd este: 2.000000
